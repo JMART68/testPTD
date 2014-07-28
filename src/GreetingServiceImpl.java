@@ -1,7 +1,3 @@
-package com.test.server;
-
-import com.test.client.GreetingService;
-import com.test.shared.FieldVerifier;
 import com.google.gwt.user.server.rpc.RemoteServiceServlet;
 
 /**

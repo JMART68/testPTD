@@ -1,5 +1,3 @@
-package com.test.shared;
-
 /**
  * <p>
  * FieldVerifier validates that the name the user enters is valid.

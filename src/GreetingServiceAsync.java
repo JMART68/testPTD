@@ -1,5 +1,3 @@
-package com.test.client;
-
 import com.google.gwt.user.client.rpc.AsyncCallback;
 
 /**
