@@ -40,7 +40,7 @@ public class Test_ptd implements EntryPoint {
 	 * This is the entry point method.
 	 */
 	public void onModuleLoad() {
-		final Button sendButton = new Button("Send in");
+		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
 		nameField.setText("User :");
 		final Label errorLabel = new Label();
