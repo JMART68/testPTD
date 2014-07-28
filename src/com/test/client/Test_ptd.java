@@ -1,6 +1,7 @@
 package com.test.client;
 
 import com.test.shared.FieldVerifier;
+
 import com.google.gwt.core.client.EntryPoint;
 import com.google.gwt.core.client.GWT;
 import com.google.gwt.event.dom.client.ClickEvent;
@@ -41,7 +42,7 @@ public class Test_ptd implements EntryPoint {
 	public void onModuleLoad() {
 		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
-		nameField.setText("User name:");
+		nameField.setText("User name2:");
 		final Label errorLabel = new Label();
 
 		// We can add style names to widgets
