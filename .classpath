@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-client-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-client-meta-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-core-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-media-1.0.jar"/>
 	<classpathentry exported="true" kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
 	<classpathentry exported="true" kind="con" path="com.google.appengine.eclipse.core.GAE_CONTAINER"/>
 	<classpathentry excluding="com/|com/test/|com/test/client/|com/test/server/|com/test/shared/" including="**/*.java" kind="src" output="target/classes" path="src">
@@ -24,9 +28,5 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-client-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-client-meta-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-core-1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/martinj/Desktop/gdata/java/lib/gdata-media-1.0.jar"/>
 	<classpathentry kind="output" path="war/WEB-INF/classes"/>
 </classpath>
