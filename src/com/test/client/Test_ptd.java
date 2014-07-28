@@ -42,7 +42,7 @@ public class Test_ptd implements EntryPoint {
 	public void onModuleLoad() {
 		final Button sendButton = new Button("Send");
 		final TextBox nameField = new TextBox();
-		nameField.setText("User name2:");
+		nameField.setText("User name3:");
 		final Label errorLabel = new Label();
 
 		// We can add style names to widgets
